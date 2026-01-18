@@ -60,9 +60,14 @@ I work with global clients and lead a small team to deliver end-to-end backend a
 
 ## 📊 GitHub Stats
 
-![Arshad's GitHub stats](https://github-readme-stats.vercel.app/api?username=ask2arshad&show_icons=true&theme=dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ask2arshad&show_icons=true&theme=default&cache_seconds=86400" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ask2arshad&layout=compact&theme=dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ask2arshad&layout=compact&cache_seconds=86400" />
+</p>
+
 
 
 ---
