@@ -46,44 +46,9 @@ I work with global clients and lead a small team to deliver end-to-end backend a
 - Nginx / Apache
 - Docker (basic)
 
----
-
-## 📌 Featured Projects
-
-- **HMS ERP** – Hospital Management System (PHP / Laravel)  
-- **School Management System** – PHP + MySQL  
-- **Business Websites & Dashboards** – Node.js, Vue / React  
-
-👉 *Pinned repositories highlight real-world production projects.*
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ask2arshad&show_icons=true&theme=default&cache_seconds=86400" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ask2arshad&layout=compact&cache_seconds=86400" />
-</p>
-
-
-
----
-
-## 🤝 How I Work
-
-- Clear communication with global clients
-- Production-ready, maintainable code
-- Scalable architecture mindset
-- Agency-style delivery with dedicated specialists
-
----
 
 ## 📬 Connect With Me
 
 - 💼 Open to Freelance, Long-Term & Agency Projects
 - 🌍 Working with Global Clients
-- 📧 Email: your@email.com
-- 🔗 LinkedIn: https://linkedin.com/in/yourprofile
+- 📧 Email: iarshdigital@gmail.com
