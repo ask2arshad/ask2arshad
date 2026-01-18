@@ -1,16 +1,83 @@
-## Hi there 👋
+# Hi 👋 I'm Arshad Khan
 
-<!--
-**ask2arshad/ask2arshad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Backend & Full-Stack Developer | MEAN • MERN • PHP • Node.js • Python  
+💼 Freelancer | Agency Lead | Building Scalable Web Solutions
 
-Here are some ideas to get you started:
+I specialize in designing and developing **secure, scalable, and high-performance web applications**.  
+I work with global clients and lead a small team to deliver end-to-end backend and full-stack solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 Language Experience
+
+- 🐍 **Python** – Backend scripts, APIs, automation
+- 🟢 **Node.js** – REST APIs, authentication, scalable services
+- 🐘 **PHP** – Laravel, custom MVC, ERP systems
+- 📜 **JavaScript (ES6+)** – Backend & frontend development
+
+---
+
+## 🧩 Full-Stack Expertise
+
+### 🔹 MERN Stack
+- MongoDB – NoSQL schema & performance optimization  
+- Express.js – REST API & middleware design  
+- React.js – SPA dashboards & UI integration  
+- Node.js – Backend services & APIs  
+
+### 🔹 MEAN Stack
+- MongoDB  
+- Express.js  
+- Angular  
+- Node.js  
+
+---
+
+## ⚙️ Backend, Databases & Tools
+
+- RESTful API Development
+- JWT & Role-Based Authentication
+- Database Design & Optimization  
+  - MongoDB  
+  - MySQL  
+  - PostgreSQL
+- Git & GitHub (branching, PRs, code reviews)
+- Linux Server Deployment
+- Nginx / Apache
+- Docker (basic)
+
+---
+
+## 📌 Featured Projects
+
+- **HMS ERP** – Hospital Management System (PHP / Laravel)  
+- **School Management System** – PHP + MySQL  
+- **Business Websites & Dashboards** – Node.js, Vue / React  
+
+👉 *Pinned repositories highlight real-world production projects.*
+
+---
+
+## 📊 GitHub Stats
+
+![Arshad's GitHub stats](https://github-readme-stats.vercel.app/api?username=ask2arshad&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ask2arshad&layout=compact)
+
+---
+
+## 🤝 How I Work
+
+- Clear communication with global clients
+- Production-ready, maintainable code
+- Scalable architecture mindset
+- Agency-style delivery with dedicated specialists
+
+---
+
+## 📬 Connect With Me
+
+- 💼 Open to Freelance, Long-Term & Agency Projects
+- 🌍 Working with Global Clients
+- 📧 Email: your@email.com
+- 🔗 LinkedIn: https://linkedin.com/in/yourprofile
