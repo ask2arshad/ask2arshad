@@ -50,5 +50,3 @@ I work with global clients and lead a small team to deliver end-to-end backend a
 ## 📬 Connect With Me
 
 - 💼 Open to Freelance, Long-Term & Agency Projects
-- 🌍 Working with Global Clients
-- 📧 Email: iarshdigital@gmail.com
